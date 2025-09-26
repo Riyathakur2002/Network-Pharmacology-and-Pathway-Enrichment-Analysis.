@@ -1,9 +1,9 @@
-Supplementary Data for Network Pharmacology Analysis
+**Supplementary Data for Network Pharmacology Analysis**
 
 This repository contains supplementary tables (S1–S10) for the study:
 “Network Pharmacology and Pathway Enrichment Analysis of Licorice (Glycyrrhiza glabra) and Shatavari (Asparagus racemosus)”.
 
-Licorice (Glycyrrhiza glabra)
+**Licorice (Glycyrrhiza glabra)**
 
 1.Supplementary Table S1: Phytochemical–Protein–Disease Associations
 
@@ -15,7 +15,7 @@ Licorice (Glycyrrhiza glabra)
 
 5.Supplementary Table S5: KEGG Pathway Enrichment
 
-Shatavari (Asparagus racemosus)
+**Shatavari (Asparagus racemosus)**
 
 6.Supplementary Table S6: Phytochemical–Target–Disease Associations
 
