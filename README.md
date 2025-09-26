@@ -1,29 +1,28 @@
 Supplementary Data for Network Pharmacology Analysis
 
 This repository contains supplementary tables (S1–S10) for the study:
-Network Pharmacology and Pathway Enrichment Analysis of Licorice (Glycyrrhiza glabra) and Shatavari (Asparagus racemosus)
+“Network Pharmacology and Pathway Enrichment Analysis of Licorice (Glycyrrhiza glabra) and Shatavari (Asparagus racemosus)”.
 
-Licorice (Glycyrrhiza glabra) Files
+Licorice (Glycyrrhiza glabra)
 
-Supplementary Table S1: Phytochemical–Protein–Disease associations
+1.Supplementary Table S1: Phytochemical–Protein–Disease Associations
 
-Supplementary Table S2: Top 10 hub proteins (Degree Centrality)
+2.Supplementary Table S2: Top 10 Hub Proteins (Degree Centrality)
 
-Supplementary Table S3: Top 10 hub proteins (Betweenness Centrality)
+3.Supplementary Table S3: Top 10 Hub Proteins (Betweenness Centrality)
 
-Supplementary Table S4: Gene Ontology (GO) Biological Process enrichment
+4.Supplementary Table S4: Gene Ontology (GO) Biological Process Enrichment
 
-Supplementary Table S5: KEGG Pathway enrichment
+5.Supplementary Table S5: KEGG Pathway Enrichment
 
-Shatavari (Asparagus racemosus) Files
+Shatavari (Asparagus racemosus)
 
-Supplementary Table S6: Phytochemical–Target–Disease associations
+6.Supplementary Table S6: Phytochemical–Target–Disease Associations
 
-Supplementary Table S7: Top hub genes (Degree Centrality)
+7.Supplementary Table S7: Top Hub Genes (Degree Centrality)
 
-Supplementary Table S8: Top hub genes (Betweenness Centrality)
+8.Supplementary Table S8: Top Hub Genes (Betweenness Centrality)
 
-Supplementary Table S9: Gene Ontology (GO) Biological Process enrichment
+9.Supplementary Table S9: Gene Ontology (GO) Biological Process Enrichment
 
-Supplementary Table S10: KEGG Pathway enrichment
- 
+10.Supplementary Table S10: KEGG Pathway Enrichment
